@@ -3,9 +3,7 @@ function App() {
     return (
         <div className="container mx-auto">
             <UsersList />
-        </div>
-
-    );
-
+        </div>);
 }
+
 export default App;

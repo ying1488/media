@@ -1,10 +1,194 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Myra"
-        }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "name": "Hope Buckridge",
+      "id": 10
+    },
+    {
+      "name": "Laurence Waelchi",
+      "id": 15
+    },
+    {
+      "name": "George Grady",
+      "id": 22
+    },
+    {
+      "name": "Ada Windler Sr.",
+      "id": 23
+    },
+    {
+      "name": "Vickie Lesch",
+      "id": 24
+    },
+    {
+      "name": "Dr. Jason Pfannerstill I",
+      "id": 27
+    },
+    {
+      "name": "Erick Kiehn-Fisher",
+      "id": 28
+    },
+    {
+      "name": "Jeanne Flatley-Pollich",
+      "id": 29
+    },
+    {
+      "name": "Mark Raynor",
+      "id": 30
+    }
+  ],
+  "albums": [
+    {
+      "userId": 24,
+      "title": "Incredible Fresh Salad",
+      "id": 29
+    },
+    {
+      "userId": 24,
+      "title": "Handmade Granite Salad",
+      "id": 31
+    },
+    {
+      "userId": 10,
+      "title": "Luxurious Frozen Table",
+      "id": 32
+    },
+    {
+      "userId": 28,
+      "title": "Licensed Rubber Sausages",
+      "id": 33
+    },
+    {
+      "userId": 28,
+      "title": "Tasty Metal Gloves",
+      "id": 34
+    },
+    {
+      "userId": 27,
+      "title": "Small Concrete Soap",
+      "id": 35
+    },
+    {
+      "userId": 27,
+      "title": "Intelligent Metal Soap",
+      "id": 36
+    },
+    {
+      "userId": 24,
+      "title": "Awesome Concrete Bacon",
+      "id": 37
+    },
+    {
+      "userId": 30,
+      "title": "Handcrafted Plastic Chicken",
+      "id": 38
+    },
+    {
+      "userId": 29,
+      "title": "Sleek Steel Bike",
+      "id": 39
+    },
+    {
+      "userId": 15,
+      "title": "Luxurious Soft Gloves",
+      "id": 40
+    },
+    {
+      "userId": 30,
+      "title": "Practical Bronze Bike",
+      "id": 41
+    },
+    {
+      "userId": 10,
+      "title": "Awesome Fresh Hat",
+      "id": 42
+    },
+    {
+      "userId": 15,
+      "title": "Handcrafted Steel Shirt",
+      "id": 43
+    },
+    {
+      "userId": 15,
+      "title": "Electronic Wooden Chicken",
+      "id": 44
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 32,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7097067923046400",
+      "id": 1
+    },
+    {
+      "albumId": 32,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2160830325981184",
+      "id": 2
+    },
+    {
+      "albumId": 32,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5304185681608704",
+      "id": 3
+    },
+    {
+      "albumId": 29,
+      "url": "https://picsum.photos/seed/eZP25l/640/480",
+      "id": 19
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/640/480?lock=3760023123525632",
+      "id": 20
+    },
+    {
+      "albumId": 33,
+      "url": "https://picsum.photos/seed/5fQrg/640/480",
+      "id": 21
+    },
+    {
+      "albumId": 35,
+      "url": "https://picsum.photos/seed/amfTCYl7/640/480",
+      "id": 23
+    },
+    {
+      "albumId": 31,
+      "url": "https://loremflickr.com/640/480?lock=4498882757132288",
+      "id": 24
+    },
+    {
+      "albumId": 31,
+      "url": "https://loremflickr.com/640/480?lock=4739141050826752",
+      "id": 25
+    },
+    {
+      "albumId": 35,
+      "url": "https://loremflickr.com/640/480?lock=23565401325568",
+      "id": 26
+    },
+    {
+      "albumId": 39,
+      "url": "https://loremflickr.com/640/480?lock=5945486127136768",
+      "id": 31
+    },
+    {
+      "albumId": 40,
+      "url": "https://picsum.photos/seed/sqNow/640/480",
+      "id": 32
+    },
+    {
+      "albumId": 38,
+      "url": "https://loremflickr.com/640/480?lock=930682855489536",
+      "id": 34
+    },
+    {
+      "albumId": 38,
+      "url": "https://loremflickr.com/640/480?lock=6039970894577664",
+      "id": 35
+    },
+    {
+      "albumId": 42,
+      "url": "https://picsum.photos/seed/imOBfNGe/640/480",
+      "id": 36
+    }
+  ]
 }
