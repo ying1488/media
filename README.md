@@ -9,7 +9,8 @@ Catalogue Your Favorite Artists and Their Work
 
 ## Description
 
-Welcome to Media, a web app designed to create a catalogue of artists and their works, powered by an external API. Explore and manage a diverse collection of artists, albums, and other creative media.
+Welcome to Media, a web app designed to create a catalogue of artists and their works, powered by an external API. 
+Explore and manage a diverse collection of artists, albums, and other creative media.
 
 ## Tech Stack
 
@@ -19,8 +20,8 @@ Data Format: JSON
 
 ## Features
 Add New Artists: Easily expand the catalogue with new names.
-Generate Album Lists: Automatically create detailed lists of albums and other works for each artist.
-Enhance with Visuals: Add compelling pictures to bring artists and their work to life.
+Generate Album Lists: Automatically create lists of albums and other works for each artist.
+Enhance with Visuals: Add pictures to bring artists and their work to life.
 
 ## Getting Started
 Installation:
@@ -69,12 +70,11 @@ Provide opportunities to explore music, art, or other media.
 ## Motivation
 In this project , I really wanted to : 
 
-Master data fetching techniques within React and Redux.
+learn more about data fetching techniques within React and Redux.
 Explore the challenges and possibilities of network requests and API integration.
 
-
 ## Challenges & Achievements
-Successfully implemented lazy loading to optimize performance for users with limited bandwidth.
+Managed to use lazy loading to optimize performance for users with limited bandwidth.
 
 ## Future Plans
 Instead of using an external API for artist names and albums name, we will create forms for users to manually insert information of artists and work . 
